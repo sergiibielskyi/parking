@@ -22,7 +22,7 @@ In this workshop you will:
   
   4. Execute provision your parking places
 
-Configure UDF
+<a href="https://github.com/sergiibielskyi/parking/blob/master/module2.md">Configure UDF</a>
 
   5. Define conditions to Digital Twin.
   
@@ -32,7 +32,7 @@ Configure UDF
   
   8. Get results of a user-defined function.
 
-Configure Logic App for routing
+<a href="https://github.com/sergiibielskyi/parking/blob/master/module3.md">Configure Logic App for routing</a>
 
   9. Configure Event Hub
   
