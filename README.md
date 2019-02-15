@@ -40,7 +40,6 @@ Configure Logic App for routing
   
   11. Configure Teams channel for notification
   
-  13. Build Logic App with routing
+  12. Build Logic App with routing
   
-  14. Testing the application and notification
  
