@@ -8,6 +8,8 @@ Description: Overview of using Digital Twin. In this workshop, you will see and 
   - Simulate sensor data. 
   - Use Logic App to route the message 
   - Notification to Teams - Create the record in Cosmos DB
+ 
+![](https://github.com/sergiibielskyi/parking/blob/master/digital.png)
   
 In this workshop you will:
 
