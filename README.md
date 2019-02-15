@@ -1,4 +1,4 @@
-<H1>parking place</H1>
+<H1>Parking place</H1>
 Exploring Digital Twin in Smart cities
 
 Description: Overview of using Digital Twin. In this workshop, you will see and touch how to use Azure Digital Twin to build the application of monitoring available parking places in the city.  
