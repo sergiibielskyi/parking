@@ -13,7 +13,7 @@ Description: Overview of using Digital Twin. In this workshop, you will see and 
   
 In this workshop you will:
 
-Deploy and configure
+<a href="https://github.com/sergiibielskyi/parking/blob/master/module1.md">Deploy and configure</a>
   1. Setup and configure Digital Twin service in Azure
   
   2. Grant permissions to your application
