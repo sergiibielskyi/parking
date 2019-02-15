@@ -1,10 +1,12 @@
-<b>Deploy and configure</b>
+<H1>Deploy and configure</H1>
 
-  Setup and configure Digital Twin service in Azure
+  1. Setup and configure Digital Twin service in Azure
 
-  Grant permissions to your application
+  2. Grant permissions to your application
 
-  Modify a Digital Twins application
+  3. Modify a Digital Twins application
 
-  Execute provision your parking places
+  4. Execute provision your parking places
+  
 
+<H2>Setup and configure Digital Twin service in Azure</H2>
