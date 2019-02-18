@@ -1,0 +1,7 @@
+- type: EventHub
+  eventTypes:
+  - DeviceMessage
+  - UdfCustom
+  connectionString: PrimaryConnection;EntityPath=eventhubtwin
+  secondaryConnectionString: SecondaryConnection;EntityPath=eventhubtwin
+  path: eventhubtwin

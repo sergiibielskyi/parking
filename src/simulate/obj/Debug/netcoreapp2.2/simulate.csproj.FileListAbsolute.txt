@@ -1,0 +1,11 @@
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/obj/Debug/netcoreapp2.2/simulate.csprojAssemblyReference.cache
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/obj/Debug/netcoreapp2.2/simulate.csproj.CoreCompileInputs.cache
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/obj/Debug/netcoreapp2.2/simulate.AssemblyInfoInputs.cache
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/obj/Debug/netcoreapp2.2/simulate.AssemblyInfo.cs
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/bin/Debug/netcoreapp2.2/simulate.deps.json
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/bin/Debug/netcoreapp2.2/simulate.runtimeconfig.json
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/bin/Debug/netcoreapp2.2/simulate.runtimeconfig.dev.json
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/bin/Debug/netcoreapp2.2/simulate.dll
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/bin/Debug/netcoreapp2.2/simulate.pdb
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/obj/Debug/netcoreapp2.2/simulate.dll
+/Users/sergiib/Documents/Apps/digital/parking/src/simulate/obj/Debug/netcoreapp2.2/simulate.pdb
