@@ -20,14 +20,14 @@ In this workshop you will:
   
   3. Modify a Digital Twins application
   
-  4. Execute provision your parking places
-
-<a href="https://github.com/sergiibielskyi/parking/blob/master/module2.md">Configure UDF</a>
-
-  5. Define conditions to Digital Twin.
+  4. Define conditions to Digital Twin.
   
-  6. Create a user-defined function (UDF).
+  5. Create a user-defined function (UDF).
   
+  6. Execute provision your parking places
+
+<a href="https://github.com/sergiibielskyi/parking/blob/master/module2.md">Configure simulator</a>
+
   7. Simulate sensor data using application.
   
   8. Get results of a user-defined function.
