@@ -21,7 +21,7 @@ Next step is configure endpoints for connecting to the Event Hub. For this actio
 
 ![](https://github.com/sergiibielskyi/parking/blob/master/images/connectionhub.png)
 
-Don't forget tu put the name of Event Hub instance as well.
+Don't forget to put the name of Event Hub instance as well.
 
 Next step you need to create Cosmos DB with SQL API and one container.
 
