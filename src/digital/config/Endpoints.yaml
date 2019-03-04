@@ -1,6 +1,6 @@
 - type: EventHub
   eventTypes:
-  - DeviceMessage
+  - SensorChange
   - UdfCustom
   connectionString: PrimaryConnection;EntityPath=eventhubtwin
   secondaryConnectionString: SecondaryConnection;EntityPath=eventhubtwin
